@@ -1,0 +1,23 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch - PercolationVisualizer",
+            "request": "launch",
+            "mainClass": "PercolationVisualizer",
+            "args": "${command:SpecifyProgramArgs}"
+        },
+        {
+            "type": "java",
+            "name": "Launch - PercolationStats",
+            "request": "launch",
+            "mainClass": "PercolationStats",
+            "projectName": "Princeton-Algo1_60e77387",
+            "args": "${command:SpecifyProgramArgs}"
+        }
+    ]
+}
