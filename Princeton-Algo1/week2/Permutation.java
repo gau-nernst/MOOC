@@ -6,11 +6,8 @@ public class Permutation {
         int k = Integer.parseInt(args[0]);
         if (k == 0) return;
         RandomizedQueue<String> queue = new RandomizedQueue<>();
-
-        while (!StdIn.isEmpty()) {
-            if (queue.size() == k) queue.dequeue();
-            queue.enqueue(StdIn.readString());
-        }
+        
+        while (!StdIn.isEmpty()) queue.enqueue(StdIn.readString());
         for (int i = 0; i < k; i++) StdOut.println(queue.dequeue());
     }
  }
