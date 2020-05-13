@@ -1,0 +1,29 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Board",
+            "request": "launch",
+            "mainClass": "Board",
+            "projectName": "week4_809e9638"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PuzzleChecker",
+            "request": "launch",
+            "mainClass": "PuzzleChecker",
+            "projectName": "week4_809e9638"
+        },
+        {
+            "type": "java",
+            "name": "Solver",
+            "request": "launch",
+            "mainClass": "Solver",
+            "args": "${command:SpecifyProgramArgs}"
+        }
+    ]
+}

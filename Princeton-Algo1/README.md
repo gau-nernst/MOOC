@@ -9,3 +9,7 @@ Link: https://coursera.cs.princeton.edu/algs4/assignments/queues/specification.p
 ## Week 3 Assignment
 
 Link: https://coursera.cs.princeton.edu/algs4/assignments/collinear/specification.php
+
+## Week 4 Assignment
+
+Link: https://coursera.cs.princeton.edu/algs4/assignments/8puzzle/specification.php
