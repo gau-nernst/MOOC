@@ -1,0 +1,36 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - KdTree",
+            "request": "launch",
+            "mainClass": "KdTree",
+            "projectName": "week5_809e9639"
+        },
+        {
+            "type": "java",
+            "name": "KdTreeVisualizer",
+            "request": "launch",
+            "mainClass": "KdTreeVisualizer",
+            "args": "${command:SpecifyProgramArgs}"
+        },
+        {
+            "type": "java",
+            "name": "RangeSearchVisualizer",
+            "request": "launch",
+            "mainClass": "RangeSearchVisualizer",
+            "args": "${command:SpecifyProgramArgs}"
+        },
+        {
+            "type": "java",
+            "name": "NearestNeighborVisualizer",
+            "request": "launch",
+            "mainClass": "NearestNeighborVisualizer",
+            "args": "${command:SpecifyProgramArgs}"
+        }
+    ]
+}
