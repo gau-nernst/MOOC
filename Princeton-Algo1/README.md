@@ -13,3 +13,7 @@ Link: https://coursera.cs.princeton.edu/algs4/assignments/collinear/specificatio
 ## Week 4 Assignment
 
 Link: https://coursera.cs.princeton.edu/algs4/assignments/8puzzle/specification.php
+
+## Week 5 Assignment
+
+Link: https://coursera.cs.princeton.edu/algs4/assignments/kdtree/specification.php
